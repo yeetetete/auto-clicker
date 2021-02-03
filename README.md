@@ -4,11 +4,6 @@ g++ -o main main.cpp
 ```
 
 # Running
-### For Linux
 ```
-./main
-```
-### For Windows
-```
-main
+main (or just run the executable)
 ```
